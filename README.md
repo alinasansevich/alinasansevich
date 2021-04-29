@@ -7,7 +7,7 @@ My name is Alina Sansevich, and I am a self-taught Python Developer. I have a Ph
 💬 Ask me about: Molecular Biology<br>
 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alinasansevich-blue)](https://www.linkedin.com/in/alina-sansevich-070b6159/)<br>
-😄 Pronouns: She/her<br>
+
 ⚡ Fun fact: I love Yoga and green tea 🙏 🍵
 
 #### Languages and Tools: 
