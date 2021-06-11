@@ -1,5 +1,6 @@
 ## 👋 Hello!
-My name is Alina Sansevich, and I am a self-taught Python Developer. I have a PhD in Biological Sciences and I am about to complete IBM's Data Science Professional Certificate from Coursera.
+Welcome to my page!<br>
+My name is Alina Sansevich, and I am a self-taught Python Developer. I have a PhD in Biological Sciences and I have completed IBM's Data Science Professional Certificate from Coursera.
 
 #### Here's what I'm working on:
 🔭 I’m currently working on: Data Analysis and building a CLI for one of my projects<br>
