@@ -1,11 +1,14 @@
-## 👋 Hello!
-Welcome to my page!<br>
-My name is Alina Sansevich, and I am a self-taught Python Developer. I have a PhD in Biological Sciences and I have completed IBM's Data Science Professional Certificate from Coursera.
+![mi_foto_de_fb_cropped2](https://user-images.githubusercontent.com/58040292/122443814-8b42f600-cf65-11eb-8929-60d31560d3e7.jpg)
+
+# 👋 Hello!
+#### Welcome to my page!<br>
+My name is Alina Sansevich, and I am a self-taught Python Developer.<br>
+I have a PhD in Biological Sciences, and having finished IBM's Data Science Professional Certificate I'm currently seeking opportunities to use my skills in the Biotech sector.
 
 #### Here's what I'm working on:
-🔭 I’m currently working on: Data Analysis and building a CLI for one of my projects<br>
+🔭 I’m currently working on: Solving bioinformatic puzzles and building a CLI for one of my projects<br>
 🌱 I’m currently learning: R<br>
-💬 Ask me about: Molecular Biology<br>
+
 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alinasansevich-blue)](https://www.linkedin.com/in/alina-sansevich-070b6159/)<br>
 
