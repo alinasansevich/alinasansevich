@@ -7,7 +7,7 @@ I have a PhD in Biological Sciences, and having finished IBM's Data Science Prof
 
 #### Here's what I'm working on:
 🔭 I’m currently working on: Solving bioinformatic puzzles and building a CLI for one of my projects<br>
-🌱 I’m currently learning: R<br>
+🌱 I’m currently learning: to create and manage Cloud Resources with Google Cloud Training (and also R when I find the time)
 
 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alinasansevich-blue)](https://www.linkedin.com/in/alina-sansevich-070b6159/)<br>
