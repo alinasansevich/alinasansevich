@@ -6,7 +6,7 @@ My name is Alina Sansevich, and I am a self-taught Python Developer.<br>
 I have a PhD in Biological Sciences, and having finished IBM's Data Science Professional Certificate I'm currently seeking opportunities to use my skills in the Life Sciences area.
 
 #### Here's what I'm working on:
-🔭 I’m currently working on: Solving bioinformatic puzzles and building a CLI for one of my projects<br>
+🔭 I’m currently working on: Solving bioinformatic puzzles and writing unit tests for one of my projects<br>
 🌱 I’m currently learning: to work with Cloud Resources following Google Cloud Training's Data Analytics track (and also R when I find the time)
 
 📫 How to reach me: 
