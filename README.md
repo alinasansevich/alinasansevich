@@ -3,11 +3,10 @@
 # 👋 Hello!
 #### Welcome to my page!<br>
 My name is Alina Sansevich, and I am a self-taught Python Developer.<br>
-I have a PhD in Biological Sciences, and having finished IBM's Data Science Professional Certificate I'm currently seeking opportunities to use my skills in the Life Sciences area.
 
 #### Here's what I'm working on:
-🔭 I’m currently working on: Solving bioinformatic puzzles and writing unit tests for one of my projects<br>
-🌱 I’m currently learning: Django REST Framework.
+🔭 I’m currently working on: Solving bioinformatic puzzles.<br>
+🌱 I’m currently learning: Scala.
 
 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alinasansevich-blue)](https://www.linkedin.com/in/alina-sansevich-070b6159/)<br>
